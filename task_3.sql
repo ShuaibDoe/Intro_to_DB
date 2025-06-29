@@ -1,1 +1,2 @@
-SELECT SHOW TABLES;
+SELECT SHOW TABLES
+USE alx_book_store;
